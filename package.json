@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "libp2p": "^0.33.0",
+    "libp2p-tcp": "^0.17.2"
+  }
+}
